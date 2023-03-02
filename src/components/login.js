@@ -6,7 +6,8 @@ const login = () => {
     <View>
       <Text>login</Text>
       <Text>Umar </Text>
-      <TextInput placeholder=""></TextInput>
+      <TextInput placeholder="Email"/>
+        <TextInput placeholder="Password"/>
     </View>
   );
 };
